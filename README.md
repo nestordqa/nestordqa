@@ -1,7 +1,8 @@
 # 💫 About Me:
 I'm currently working on final project of Henry bootcamp, using libraries and frameworks from Javascript like React.js and Express.js.<br>
 I'm looking to collaborate on fullstack (Or backend) projects developed with any javascript frameworks or libraries, or even Vanilla.<br>
-I'm looking for help with all my knowledge (It is not to big but I have all good attitude) in any project.<br>I'm currently learning other frameworks (Yes, javascript frameworks) like Vue.js and Svelte.<br>
+I'm looking for help with all my knowledge (It is not to big but I have all good attitude) in any project.<br>I'm currently learning other technologies (Yes,
+related to javascript) like Next.js and Typescript.<br>
 
 <br>I'm not the most brightest developer but I would want to learn a lot, I just wanna be the biggest.<br>Remember, there are not seniors without juniors.
 
