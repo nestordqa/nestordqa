@@ -7,6 +7,9 @@ I am willing to help in any project with all my knowledge and good attitude. <br
 <br>In the following link you will find the repository of a group project in which I have recently collaborated: https://github.com/arbelais/PF-Pawsitive-app
 <br>And in the following link you will find the deploy: https://pf-pawsitive-app-git-develop-arbelais.vercel.app/
 
+<br>You can contact me by the following ways:
+<br>Phone: +58 4121385416.
+<br>E-mail: ndqa96@gmail.com.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nestordqa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n%C3%A9stor-qui%C3%B1ones-838539238) 
