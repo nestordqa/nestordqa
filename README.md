@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on personal projects taken from challenges of FrontendMentor.io<br>
+I'm currently working on Marcelodesignx.com projects.<br>
 I'm looking to collaborate on fullstack projects developed with any javascript frameworks or libraries, or even Vanilla.<br>
 I am willing to help in any project with all my knowledge and good attitude. <br>Currently I am still learning about different javascript frameworks and libraries.<br>
 
