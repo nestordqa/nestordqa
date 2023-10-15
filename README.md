@@ -1,11 +1,4 @@
-# 💫 About Me:
-I'm currently working on Marcelodesignx.com projects.<br>
-I'm looking to collaborate on fullstack projects developed with any javascript frameworks or libraries, or even Vanilla.<br>
-I am willing to help in any project with all my knowledge and good attitude. <br>Currently I am still learning about different javascript frameworks and libraries.<br>
 
-<br>Go see my repositories, there you will find the individual projects that I have worked on lately. <br> 
-<br>In the following link you will find the repository of a group project in which I have recently collaborated: https://github.com/arbelais/PF-Pawsitive-app
-<br>And in the following link you will find the deploy: https://pf-pawsitive-app-git-develop-arbelais.vercel.app/
 
 <br>You can contact me by the following ways:
 <br>Phone: +58 4121385416.
